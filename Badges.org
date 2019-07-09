@@ -490,6 +490,11 @@ black
    :Tags: 
    :State: Draft
    :END:
+
+https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/gwp/
+
+https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf
+
 ** TT000X - Semantic Versioning
    :PROPERTIES:
    :Version:  0.1
