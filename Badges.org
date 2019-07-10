@@ -168,6 +168,16 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
    :Tags: 
    :State: Draft
    :END:
+** TT000X - Scientific Software
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+https://zenodo.org/record/1172970
+https://zenodo.org/record/1172988
+
 ** TT000X - Making Software Citable
 
 - [[https://guides.github.com/activities/citable-code/][Automatic workflow for GitHub and Zenodo to the a DOI]]
