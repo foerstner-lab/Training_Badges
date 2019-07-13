@@ -251,6 +251,17 @@ black
    :Tags: 
    :State: Draft
    :END:
+** TT0000 - Python - string formating
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+- %
+- format
+- f-string
+
 ** TT000X - Python testing (unit test, pytest, CI)
    :PROPERTIES:
    :Version:  0.1
@@ -608,9 +619,36 @@ ClusterProfiler
 - https://www.sphinx-doc.org
 
 ** TT000X - Linked open data and knowledge graph
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Healthy working
 - Sleep 
 - Posture
 
-
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 ** TT000X - Basic Machine learning
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+** TT000X - DORA
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+** TT000X - CRediT Taxonomy
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
