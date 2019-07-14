@@ -13,10 +13,22 @@ Begin with the end in mind: Write some questions/aims for each badge.
   - General Data Science
   - High throughput sequencing
   - Software Develeopment
+  - Statistics
+  - Visualisation
 
 - "TT" stand for training topic
 
-** TT0001 - Code of conduct
+- Semantic versionsing
+  - 1.0.0 means stable version
+  - X.0.0 major change
+  - 1.X.0 Additaion/removal/Change of content
+  - 1.0.X Fixing of spelling, typos, links
+
+- This document is writte in in Emacs' org-mode and can best read and
+  displayed with Emacs. The entries contains properties (version, sags,
+  state) that are not rendered by GitHub and GitLab.
+
+* TT0001 - Code of conduct
    :PROPERTIES:
    :Version:  0.1
    :Tags: Legal
@@ -25,13 +37,13 @@ Begin with the end in mind: Write some questions/aims for each badge.
 
 - Also refer to ZB MED's person for this
 
-** TT0002 - Supervision agreement
+* TT0002 - Supervision agreement
    :PROPERTIES:
    :Version:  0.1
    :Tags: Legal
    :Status: Draft
    :END:
-** TT0003 - Start with your document now
+* TT0003 - Start with your document now
    :PROPERTIES:
    :Version:  0.1
    :Tags: Legal
@@ -41,7 +53,7 @@ Begin with the end in mind: Write some questions/aims for each badge.
 If you start a project thesis ... start writing it already at the
 beginning..
 
-** TT000X - Server-"Seepferdchen" (server seahorse)
+* TT000X - Server-"Seepferdchen" (server seahorse)
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -60,14 +72,14 @@ beginning..
 - Anacondo for software
 - Docker / singularity
 
-** TT000X - Lab journal
+* TT000X - Lab journal
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
 
-** TT000X - Git (+ GitHub/GitLab) basics
+* TT000X - Git (+ GitHub/GitLab) basics
    :PROPERTIES:
    :Version:  0.1
    :Tags: Software Develeopment
@@ -78,17 +90,25 @@ beginning..
 - What are distributed version control
 - What is git?
 - Which other?
-*** Task
+** Task
 - Generate dummy article Markdown file and put put under version
   control with git. Make changes.
 - Share this it on Github
-** TT000X - Project data organisation
+* TT000X - Working envinment
+
+- Destkop
+  - starter use Ubuntu or Mint
+  - if needed start with a VM maybet first start 
+
+- setup SSH and work mainly on the server
+
+* TT000X - Project data organisation
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Projekt organization and documentation
+* TT000X - Projekt organization and documentation
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -102,25 +122,25 @@ beginning..
   19649301; PubMed Central PMCID:
   PMC2709440. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 
-** TT000X - Text editors
+* TT000X - Text editors
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Text files
+* TT000X - Text files
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Unix shell - basics
+* TT000X - Unix shell - basics
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Unix shell - advanced
+* TT000X - Unix shell - advanced
 - shell scripts
 - for loops
 - & and while
@@ -130,45 +150,45 @@ beginning..
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Hash sums
+* TT000X - Hash sums
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
 
-** TT000X - Writing dates
--**** TT000X - Storing data in tables
+* TT000X - Writing dates
+-*** TT000X - Storing data in tables
 
 https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 
-** TT000X - Plain text files
+* TT000X - Plain text files
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - SSH (and Mosh)
+* TT000X - SSH (and Mosh)
 
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Short read mappers
+* TT000X - Short read mappers
 - Tool for HTS (samtools, bedtools, cutadapt, FASTQC) - maybe merge with mappers
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Good practices for programming
+* TT000X - Good practices for programming
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Scientific Software
+* TT000X - Scientific Software
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -178,7 +198,7 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 https://zenodo.org/record/1172970
 https://zenodo.org/record/1172988
 
-** TT000X - Making Software Citable
+* TT000X - Making Software Citable
 
 - [[https://guides.github.com/activities/citable-code/][Automatic workflow for GitHub and Zenodo to the a DOI]]
 - https://citation-file-format.github.io/
@@ -188,7 +208,7 @@ https://zenodo.org/record/1172988
    :Tags: 
    :State: Draft
    :END:
-** TOO00X - Important persistent identifiers
+* TOO00X - Important persistent identifiers
 
 - DOI
 - ORCID
@@ -199,7 +219,7 @@ https://zenodo.org/record/1172988
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python beginner 
+* TT000X - Python beginner 
    
 - [ ] scripts, REPL (python and ipython), Jupyter notebook
 - [ ] variables
@@ -219,7 +239,7 @@ https://zenodo.org/record/1172988
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python - object oriented programming
+* TT000X - Python - object oriented programming
 
 - classes
 
@@ -228,7 +248,7 @@ https://zenodo.org/record/1172988
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python - list comprehension
+* TT000X - Python - list comprehension
 - What is list comprehension?
 - What are generators
    :PROPERTIES:
@@ -236,7 +256,7 @@ https://zenodo.org/record/1172988
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python - linting
+* TT000X - Python - linting
 
 pylint
 black
@@ -245,13 +265,13 @@ black
    :Tags: 
    :State: Draft
    :END:
-** TT0000 - Python - type hints
+* TT0000 - Python - type hints
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT0000 - Python - string formating
+* TT0000 - Python - string formating
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -260,9 +280,9 @@ black
 
 - %
 - format
-- f-string
+- [[https://realpython.com/python-f-strings/][f-strings]]
 
-** TT000X - Python testing (unit test, pytest, CI)
+* TT000X - Python testing (unit test, pytest, CI)
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -277,31 +297,40 @@ black
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python debugging
+* TT000X - Python debugging
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python visualisation packages
+* TT000X - Python visualisation packages
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python bioinformatics packages
+* TT000X - Python bioinformatics packages
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python pandas
+
+* TT000X - Python pandas
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python packaging/projects
+* TT000X - Python package managers - pip and conda
+
+*** Resources
+- [[https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html][conda - Getting started with conda]]
+- [[https://www.anaconda.com/understanding-and-improving-condas-performance/][Understanding and Improving Conda’s performance]]
+
+*** Answer/Explain
+
+* TT000X - Python packaging/projects
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -309,26 +338,151 @@ black
    :END:
 *** Questions
    - Which files belong into a Python project and what is their function?
-** TT000X - Refactoring
-** TT000X - R basics
+* TT000X - Python data visualisation
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - R tidyverse
+
+- matplotlib
+- seaborn
+  https://seaborn.pydata.org/tutorial.html
+- plotly
+
+* TT000X - Statistics resources
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Rstudio
+
+
+- [[https://www.nature.com/collections/qghhqm][Nature Collection - Statistics for Biologists]]
+
+- Point of Significance
+- StatsQuest
+
+* TT000X - Descriptive statistics
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - HTML and CSS
+
+Central tendencies of distribution
+- Main
+- Mean 
+- Mode
+
+Measure of variation
+- Variance
+- Interquartile range
+- Standard deviation
+
+* TT000X - Foundations of data visualizations
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+
+* TT000X - Foundations of data visualizations
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+* TT000X - Contingency table, Chi-square test
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+* TT000X - t-tests
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+* TT000X - Multiple testing
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+* TT000X - Linear Models
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+* TT000X - Linear Models
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+* TT000X - Code reviewing
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+* TT000X - ANOVA
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: Statistics
+   :State: Draft
+   :END:
+* TT000X - p-values
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: Statistics
+   :State: Draft
+   :END:
+
+* TT000X - Confidence intervals
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+* TT000X - Grammar of graphics
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+
+* TT000X - Refactoring
+* TT000X - R basics
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+* TT000X - R tidyverse
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+* TT000X - Rstudio
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+* TT000X - HTML and CSS
 
 - https://www.w3schools.com/html/default.asp
 - https://www.w3schools.com/html/html_css.asp
@@ -339,13 +493,13 @@ black
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Static site generator
+* TT000X - Static site generator
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TTOOOX - Python web programming
+* TTOOOX - Python web programming
 
 - static vs. dynamic
 
@@ -356,25 +510,25 @@ black
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python flask
+* TT000X - Python flask
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Python Django
+* TT000X - Python Django
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000x - Python - Bioservices
+* TT000x - Python - Bioservices
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Opens Science 
+* TT000X - Opens Science 
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -383,23 +537,13 @@ black
 
 - Research Cycle
 
-** TT000X - Reproducibility
+* TT000X - Creative commons licenses
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-
-- Provenance
-
-
-** TT000X - Creative commons licenses
-   :PROPERTIES:
-   :Version:  0.1
-   :Tags: 
-   :State: Draft
-   :END:
-** TT000X - Open Source and open software licenses
+* TT000X - Open Source and open software licenses
 
 - Cathedral and Bazaar
 - copyleft vs. permissive
@@ -411,49 +555,53 @@ black
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Markup languages overview
+* TT000X - Markup languages overview
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Markdown
+* TT000X - Markdown
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - LaTeX
+* TT000X - LaTeX
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Preprints
+* TT000X - XML, 
+* TT000X - SQL
+* TT000X - JSON
+* TT000X - YAML
+* TT000X - Preprints
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Genome browsers
+* TT000X - Genome browsers
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - tmux
+* TT000X - tmux
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Academic carreer paths
+* TT000X - Academic carreer paths
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Basic Statistics
+* TT000X - Basic Statistics
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -465,57 +613,57 @@ black
 - What is a p-value
 - What is correction for multiple testing?
 
-** TT000X - Peer reviewing
+* TT000X - Peer reviewing
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Samtools
+* TT000X - Samtools
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Bedtools
+* TT000X - Bedtools
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Continious Integration
+* TT000X - Continious Integration
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Continious Delivery
+* TT000X - Continious Delivery
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Using Docker containers
+* TT000X - Using Docker containers
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Creating Docker containers
-** TT000X - Using Singularity 
+* TT000X - Creating Docker containers
+* TT000X - Using Singularity 
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Creating Singularity containers
-** TT000X - Rsync
+* TT000X - Creating Singularity containers
+* TT000X - Rsync
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Good scientific practice guidelinder of the DFG
+* TT000X - Good scientific practice guidelinder of the DFG
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -526,19 +674,19 @@ https://www.dfg.de/foerderung/grundlagen_rahmenbedingungen/gwp/
 
 https://www.dfg.de/download/pdf/foerderung/rechtliche_rahmenbedingungen/gute_wissenschaftliche_praxis/kodex_gwp.pdf
 
-** TT000X - Semantic Versioning
+* TT000X - Semantic Versioning
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Making a poster
+* TT000X - Making a poster
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Research Data Repositories
+* TT000X - Research Data Repositories
 
 https://www.re3data.org/
 
@@ -551,13 +699,13 @@ https://www.re3data.org/
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Meetings
+* TT000X - Meetings
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Packing and compressing
+* TT000X - Packing and compressing
 
 - tar
 - zip
@@ -570,14 +718,14 @@ tar cf myfile.tar.bz2 --use-compress-prog=pbzip2 dir_to_compress/
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Password management
+* TT000X - Password management
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
 
-** TT000X - Differential Gene expression anlysis
+* TT000X - Differential Gene expression anlysis
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -589,9 +737,9 @@ tar cf myfile.tar.bz2 --use-compress-prog=pbzip2 dir_to_compress/
 - READemption
 - Liu et al.
 
-** TT000X - READemption
-** TT000X - Genome annotations with ANNOgesic
-** TT000X - Functional enrichment analysis
+* TT000X - READemption
+* TT000X - Genome annotations with ANNOgesic
+* TT000X - Functional enrichment analysis
 
 ClusterProfiler
 - with standard organisms (~enrichKEGG~ or ~enrichGO~)
@@ -602,14 +750,14 @@ ClusterProfiler
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Wikidata
+* TT000X - Wikidata
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
 
-** TT000X - Writing documentation
+* TT000X - Writing documentation
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -618,13 +766,13 @@ ClusterProfiler
 - https://www.mkdocs.org
 - https://www.sphinx-doc.org
 
-** TT000X - Linked open data and knowledge graph
+* TT000X - Linked open data and knowledge graph
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Healthy working
+* TT000X - Healthy working
 - Sleep 
 - Posture
 
@@ -633,19 +781,19 @@ ClusterProfiler
    :Tags: 
    :State: Draft
    :END:
-** TT000X - Basic Machine learning
+* TT000X - Basic Machine learning
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - DORA
+* TT000X - DORA
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
    :State: Draft
    :END:
-** TT000X - CRediT Taxonomy
+* TT000X - CRediT Taxonomy
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
