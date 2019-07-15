@@ -154,7 +154,7 @@ beginning..
    :END:
 
 * TT000X - Writing dates
--*** TT000X - Storing data in tables
+* TT000X - Storing data in tables
 
 https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 
@@ -184,7 +184,7 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
    :Tags: 
    :State: Draft
    :END:
-* TT000X - Scientific Software
+* TT000X - Scientific Software development
    :PROPERTIES:
    :Version:  0.1
    :Tags: 
@@ -322,7 +322,9 @@ black
 
 *** Resources
 - [[https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html][conda - Getting started with conda]]
+- [[https://medium.com/data-science-in-practice/saving-the-environment-with-anaconda-ad68e603d8c5][Environments with conda]]
 - [[https://www.anaconda.com/understanding-and-improving-condas-performance/][Understanding and Improving Conda’s performance]]
+
 
 *** Answer/Explain
 
@@ -457,7 +459,6 @@ https://towardsdatascience.com/analyze-the-data-through-data-visualization-using
    :Tags: 
    :State: Draft
    :END:
-
 
 * TT000X - Refactoring
 * TT000X - R basics
