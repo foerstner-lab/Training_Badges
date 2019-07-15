@@ -102,12 +102,8 @@ beginning..
 
 - setup SSH and work mainly on the server
 
-* TT000X - Project data organisation
-   :PROPERTIES:
-   :Version:  0.1
-   :Tags: 
-   :State: Draft
-   :END:
+- used conda for managing you analytical tools
+
 * TT000X - Projekt organization and documentation
    :PROPERTIES:
    :Version:  0.1
