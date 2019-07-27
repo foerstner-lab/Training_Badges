@@ -60,7 +60,6 @@ beginning..
    :State: Draft
    :END:
 
-
 - tmux
 - ssh
 - mosh
@@ -796,4 +795,32 @@ ClusterProfiler
    :Tags: 
    :State: Draft
    :END:
+* TT000X - find + xargs (aka Taco Bell programming)
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
 
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html
+
+* TT000X - GNU parallel
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+https://www.gnu.org/software/parallel/
+https://www.gnu.org/software/parallel/parallel_tutorial.html
+https://opensource.com/article/18/5/gnu-parallel
+
+* TT000X - Background jobs and wait
+   :PROPERTIES:
+   :Version:  0.1
+   :Tags: 
+   :State: Draft
+   :END:
+
+https://coderwall.com/p/pbjiaq/waiting-for-all-background-jobs-to-finish-in-bash
+* TT000x - ansible
