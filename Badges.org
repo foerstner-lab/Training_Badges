@@ -823,4 +823,18 @@ https://opensource.com/article/18/5/gnu-parallel
    :END:
 
 https://coderwall.com/p/pbjiaq/waiting-for-all-background-jobs-to-finish-in-bash
-* TT000x - ansible
+* TT000X - ansible
+* TT000X - EMBOSS
+
+- fuzznuc
+- seqret
+
+* TT000X - IFLA Code of Ethics for Librarians and other Information Workers 
+
+https://www.ifla.org/publications/ifla-code-of-ethics-for-librarians-and-other-information-workers--short-version-
+* TT000X - Knowledge commons
+* TT000X - The Sociology of Science by Robert K. Merton
+
+https://sciencepolicy.colorado.edu/students/envs_5110/merton_sociology_science.pdf
+
+Communism, Universalism, Disinterestedness, Organized skepticism
